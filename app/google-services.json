@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88766983637",
+    "project_id": "fir-15ebe",
+    "storage_bucket": "fir-15ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88766983637:android:45a06073767de2e90ba15c",
+        "android_client_info": {
+          "package_name": "com.susankaranja.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4U1_v_tWev3FfORmfJDoElaEi3ns2GG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
